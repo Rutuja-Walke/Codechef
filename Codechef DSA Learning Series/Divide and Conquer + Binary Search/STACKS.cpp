@@ -1,3 +1,8 @@
+/*
+Problem Code: STACKS
+Link: https://www.codechef.com/LRNDSA04/problems/STACKS
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
